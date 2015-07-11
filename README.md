@@ -1,0 +1,2 @@
+# magic-academy-conflict
+Conflicts
